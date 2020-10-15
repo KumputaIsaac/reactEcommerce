@@ -29,12 +29,6 @@ export default class App extends Component {
         </Switch>
         </Router>
         
-        {/* <Switch>
-          <Route exact path='/' Component={ProductList}></Route>
-          <Route path='/details' Component={Details}></Route>
-          <Route path='/cart' Component={Cart}></Route>
-          <Route Component={Default}></Route>
-        </Switch> */}
         
       </div>
     )
